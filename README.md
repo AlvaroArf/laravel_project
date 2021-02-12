@@ -4,9 +4,10 @@ Bienvenidos a mi proyecto de prueba de Laravel!.
 ## Requerimientos
 Para poner en marcha la aplicación debemos de seguir pasos anteriormente:
 1. git clone dele repositorio.
-2. Crear una base de datos en el motor que guste.
-3. Modificar el fichero .env en la raiz del proyecto con los parámetros de su BD.
-4. Situarte en la raiz del proyecto y ejecutar la migración de las tablas:
+2. Crea un proyecto con laravel o composer,copiar la carpeta vendor y transladarla a la raiz de esta aplicación
+3. Crear una base de datos en el motor que guste.
+4. Modificar el fichero .env en la raiz del proyecto con los parámetros de su BD.
+5. Situarte en la raiz del proyecto y ejecutar la migración de las tablas:
 
        php artisan migrate
   
