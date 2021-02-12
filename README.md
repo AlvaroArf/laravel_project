@@ -3,7 +3,7 @@ Bienvenidos a mi proyecto de prueba de Laravel!.
 
 ## Requerimientos
 Para poner en marcha la aplicación debemos de seguir pasos anteriormente:
-1. git clone dele repositorio.
+1. git clone del repositorio.
 2. Crea un proyecto con laravel o composer,copiar la carpeta vendor y transladarla a la raiz de esta aplicación
 3. Crear una base de datos en el motor que guste.
 4. Modificar el fichero .env en la raiz del proyecto con los parámetros de su BD.
