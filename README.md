@@ -1,6 +1,6 @@
-#LARAVEL PROJECT - ELOQUENT RELATIONSHIP
+ # LARAVEL PROJECT - ELOQUENT RELATIONSHIP
 
-##Pasos a seguir
+## Pasos a seguir
 
   1. git clone del repositorio
   2. Nos posicionamos en la raiz del proyecto y generamos el directorio vendor con la siguiente orden:
