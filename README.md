@@ -16,5 +16,17 @@
   
     php artisan serve
     
+    
+  6. Datos de prueba:
+  
+    INSERT INTO departamentos (nombre_depto, descripcion) VALUES ("DW", "Desarrolladores Web");
+    INSERT INTO departamentos (nombre_depto, descripcion) VALUES ("MD", "Modelado");
+    INSERT INTO departamentos (nombre_depto, descripcion) VALUES ("SPT", "Soporte");
+    
+    INSERT INTO empleados (nombre, apellido, dni, nombre_depto) VALUES ("Alvaro", "Rojas", "12345678F", "DW");
+    INSERT INTO empleados (nombre, apellido, dni, nombre_depto) VALUES ("Alejandro", "Manzano", "87654321Q", "SPT");
+    
   Para acceder al recurso introducermos el siguiente recurso:
     http://localhost:8000/empleados/
+
+
