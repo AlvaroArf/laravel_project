@@ -5,9 +5,9 @@
 <form action="{{ route('empleados.store') }}" method="POST">
   @csrf
   <label for="fname">Nombre:</label><br>
-  <input type="text" id="Nombre" name="Nombre" required><br>
+  <input type="text" id="Nombre" name="nombre" required><br>
   <label for="fname">Apellido:</label><br>
-  <input type="text" id="Apellido" name="Apellido" required><br>
+  <input type="text" id="Apellido" name="apellido" required><br>
   <label for="lname">DNI:</label><br>
   <input type="text" id="dni" name="dni" required><br><br>
   <label for="lname">Departamento:</label><br>
